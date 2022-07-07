@@ -1,4 +1,5 @@
 # Oceana GraphQL Back-End test
+<pre>
 type News {
     title: String
     date: String
@@ -24,6 +25,7 @@ type Mutation {
 
 Implement a Node.js server using the above GraphQL schema.
 Every Query and Mutation should work correctly.
+</pre>
 
 ## How to run project
 - yarn
